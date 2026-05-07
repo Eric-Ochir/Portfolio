@@ -1,7 +1,9 @@
 Responsive Portfolio Template
+
 This is a multi-page portfolio site I built to practice clean frontend architecture and responsive design. While the content currently uses placeholder text, the project served as a great exercise in structural CSS, modular HTML, and fixing real-world deployment issues.
 
-🛠 Key Technical Skills 
+Key Technical Skills 
+
 DemonstratedSystemic CSS Architecture: I used a utility-first approach for the styling, creating a consistent system for spacing (py-1 through py-4), button design (btn-main, btn-dark, and btn-light), and color themes (bg-dark, bg-main, and bg-light) that can be easily scaled or modified.  
 
 Responsive Layouts: The site is fully responsive, utilizing CSS Grid and Flexbox to ensure complex layouts—like the "Specialization" grid and "Appreciation" section—stack cleanly on mobile devices.  
@@ -10,7 +12,8 @@ Custom JavaScript Interactivity: Instead of relying on heavy libraries, I wrote 
 
 Problem Solving & Debugging: I spent time refactoring the project to fix critical pathing issues for assets (CSS and images) and corrected invalid CSS syntax to ensure cross-browser stability.  
 
-📂 Project Highlights
+Project Highlights
+
 index.html: A high-impact landing page featuring a full-viewport hero section.
 
 work.html: A project gallery layout with CSS-animated overlays for a professional look and feel.
@@ -21,5 +24,9 @@ Contact.html: Serves as a functional communication hub featuring a CSS Grid-base
 
 main.css: A comprehensive stylesheet that manages global transitions, hover states, and mobile-specific overrides.
 
-📝 Note on Content
+Note on Content
+
 This project was created as a structural template. It currently utilizes Lorem Ipsum for text and some of assets provided by my course instructor to test grid responsiveness and image-loading optimization.
+
+Author
+Erdene-Ochir Ochirgarav 
