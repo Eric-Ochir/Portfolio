@@ -24,6 +24,17 @@ Contact.html: Serves as a functional communication hub featuring a CSS Grid-base
 
 main.css: A comprehensive stylesheet that manages global transitions, hover states, and mobile-specific overrides.
 
+How to View Locally
+This is a static frontend project with no external dependencies.
+
+Clone the repository:
+Bash
+git clone https://github.com/Eric-Ochir/newsgrid-template.git
+Run the project:
+Simply open the index.html file in any modern web browser.
+
+Tip: For the best experience, use the Live Server extension in VS Code.
+
 Note on Content
 
 This project was created as a structural template. It currently utilizes Lorem Ipsum for text and some of assets provided by my course instructor to test grid responsiveness and image-loading optimization.
